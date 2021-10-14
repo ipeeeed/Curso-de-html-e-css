@@ -9,5 +9,4 @@ Código multibyte **UTF-8**
 www.github.com/gustavoguanabara <- URL
 ---
 www | .github | .com | /gustavoguanabara
----
 sub-domínio | domínio | TLD | caminho
