@@ -17,6 +17,8 @@ sub-domínio | domínio | TLD | caminho
 - CSS = Cascading Style Sheets
 ---
 **HTML** é uma linguagem focada em conteúdo (textos, imagens, videos, tabelas).
+
 **CSS** é forma em design (cores, sobras, tamanhos, posicionamentos).
+
 **JavaScript** é uma linguagem de programação para interações (menus interativos, animações, popups, validações).
 ---
