@@ -7,6 +7,6 @@ Código multibyte **UTF-8**
 - Hospedagem -> Espaço para armazenar arquivos; Pago mensalmente; Espaço, memória, recursos.
 
 www.github.com/gustavoguanabara <- URL
-:---:
+:---: | :---: | :---: | :---:
 www | .github | .com | /gustavoguanabara
 sub-domínio | domínio | TLD | caminho
