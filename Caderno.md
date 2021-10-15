@@ -1,4 +1,5 @@
 # Curso de HTML5 e CSS3
+---
 
 - Protocolo HTTP
 Código multibyte **UTF-8**
@@ -21,3 +22,9 @@ sub-domínio | domínio | TLD | caminho
 **CSS** é forma em design (cores, sobras, tamanhos, posicionamentos).
 
 **JavaScript** é uma linguagem de programação para interações (menus interativos, animações, popups, validações).
+---
+## Front-end, Back-end e Full Stack
+
+- Client-side developer = front-end
+- Server-side developer = back-end
+- Client-side e Server-side developer = full stack
