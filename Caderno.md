@@ -29,3 +29,7 @@ sub-domínio | domínio | TLD | caminho
 - Client-side developer = front-end
 - Server-side developer = back-end
 - Client-side e Server-side developer = full stack
+
+## Semântica
+
+- É igual a SENTIDO e diferente de FORMA.
