@@ -33,3 +33,50 @@ sub-domínio | domínio | TLD | caminho
 ## Semântica
 
 - É igual a SENTIDO e diferente de FORMA.
+
+## Psicologia das cores
+
+- A harmonização das cores é excencial para a criação de um site
+
+### As cores podem ser representadas de 5 formas no <style>:
+
+- Por nomes;
+
+- Por códigos hexadecimal, ou seja, com seis números representando as cores RGB -> 00 00 00;
+
+- Por RGB (Red, Green e Blue ou Vermelho, Verde e Azul);
+
+- Por  HSL (Hue, Saturation e Luminosity ou  Matiz, Saturação e Luminosidade);
+
+- Por automatização no VSCode apenas passando o mouse na cor.
+
+## Harmonização ou harmonia de cores
+
+* Usando um **Circulo Cromático** dividido em 12 cores:
+
+- Cores primarias: Amarelo, vermelho e azul;
+
+- Cores secundárias: Laranja, violeta e verde;
+
+- Cores terceárias (são misturas, tons pastéis): Amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado e azul-esverdeado.
+
+* Temperatura de cores:
+
+- Cores frias: Violeta, azul-arroxeado, azul, azul-esverdeado, verde e amarelo-esverdeado;
+
+- Cores quentes: Amarelo, amarelo-alaranjado, laranja, vermelho-alaranjado, vermelho e vermelho-arroxeado;
+
+- Cores complementares: São as cores opostas no circulo cromático, cores que dão contraste entre elas;
+
+- Cores análogas: São as cores vizinhas, que são similares;
+
+- Cores análogas e uma complementar: a técnica misturada;
+
+- Cores análogas relacionadas;
+
+- Cores intercaladas;
+    - Cores triádicas;
+    - Cores em quadrado;
+    - Cores tetrádicas.
+
+- Monocromia.
