@@ -52,7 +52,7 @@ sub-domínio | domínio | TLD | caminho
 
 ## Harmonização ou harmonia de cores
 
-* Usando um **Circulo Cromático** dividido em 12 cores:
+### Usando um **Circulo Cromático** dividido em 12 cores:
 
 - Cores primarias: Amarelo, vermelho e azul;
 
@@ -60,7 +60,7 @@ sub-domínio | domínio | TLD | caminho
 
 - Cores terceárias (são misturas, tons pastéis): Amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado e azul-esverdeado.
 
-* Temperatura de cores:
+### Temperatura de cores:
 
 - Cores frias: Violeta, azul-arroxeado, azul, azul-esverdeado, verde e amarelo-esverdeado;
 
@@ -80,3 +80,26 @@ sub-domínio | domínio | TLD | caminho
     - Cores tetrádicas.
 
 - Monocromia.
+
+## Tipografia
+
+- Anatomia do tipo:
+    - cerifas;
+    - haste;
+    - filete;
+    - arco;
+    - esporão;
+    - vértice;
+    - terminal;
+    - braço;
+    - perna;
+    - pé;
+    - espinha;
+    - barriga;
+    - olho;
+    - orelha;
+    - cauda;
+    - Fonte.
+- Família tipográfica.
+
+- Categorias de fontes.
